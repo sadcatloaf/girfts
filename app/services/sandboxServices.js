@@ -1,0 +1,6 @@
+class SandboxService {
+
+    async fetchGifts() {
+
+    }
+}
